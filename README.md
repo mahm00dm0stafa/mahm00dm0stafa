@@ -41,7 +41,7 @@ Focused on efficiency, reliability, and delivering scalable cloud solutions.
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="40" alt="Containers" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions" height="40" alt="CICD" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="CICD" /> 
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=grafana,prometheus" height="40" alt="Monitoring" />
   <br><br>
